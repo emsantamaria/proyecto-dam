@@ -1,6 +1,9 @@
 # Actores
+
 ##Jugador:
+
 Descripcion:Usuario con permisos de usar la aplicacion
+
 ##Bot:
 Descripcion:IA controlada con posibilidad de imitar un jugador
 ##Sistema:
