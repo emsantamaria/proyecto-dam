@@ -1,20 +1,20 @@
 # Actores
 
-##Jugador:
+## Jugador:
 
 Descripcion:Usuario con permisos de usar la aplicacion
 
-##Bot:
+## Bot:
 
 Descripcion:IA controlada con posibilidad de imitar un jugador
 
-##Sistema:
+## Sistema:
 
 Descripcion:Sistema programado para sustentar al bot y al jugador
 
-#Operaciones por Actor
+# Operaciones por Actor
 
-##Jugador
+## Jugador
 
 i.Iniciar sesion
 
@@ -26,7 +26,7 @@ iv.Editar su personaje
 
 v.Jugar contra bot o otros jugadores
 
-##Bot
+## Bot
 
 i.Perseguir al jugador
 
@@ -38,7 +38,7 @@ iv.Lanzar platanos
 
 v.Crear obstaculos para eñ jugador
 
-##Sistema
+## Sistema
 
 i.Evita que el nivel del bot supere al del jugador
 
