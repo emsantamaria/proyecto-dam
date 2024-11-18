@@ -4,9 +4,9 @@
 
 Descripcion:Usuario con permisos de usar la aplicacion
 
-## Bot:
+## Jugador2:
 
-Descripcion:IA controlada con posibilidad de imitar un jugador
+Descripcion:Usuario secundario de la aplicacion
 
 ## Sistema:
 
@@ -26,17 +26,18 @@ iv.Editar su personaje
 
 v.Jugar contra bot o otros jugadores
 
-## Bot
+## Jugador 2
 
-i.Perseguir al jugador
+i.Iniciar sesion
 
-ii.Subir de nivel
+ii.Mejorar su personaje
 
-iii.Simular otro jugador
+iii.Movilidad de su personaje durante la partida
 
-iv.Lanzar platanos
+iv.Editar su personaje
 
-v.Crear obstaculos para eñ jugador
+v.Jugar contra bot o otros jugadores
+
 
 ## Sistema
 
