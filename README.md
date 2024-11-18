@@ -4,9 +4,9 @@
 
 Descripcion:Usuario con permisos de usar la aplicacion
 
-## Bot:
+## Jugador2:
 
-Descripcion:IA controlada con posibilidad de imitar un jugador
+Descripcion:Usuario secundario de la aplicacion
 
 ## Sistema:
 
